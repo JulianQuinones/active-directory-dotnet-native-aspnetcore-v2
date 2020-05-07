@@ -8,5 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Identity.Web" Version="0.1.1-preview" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
   </ItemGroup>
 </Project>
